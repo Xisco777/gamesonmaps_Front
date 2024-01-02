@@ -74,6 +74,7 @@ export default new Vuex.Store({
       },
       casarival:{},
       clasificacion:[],
+      test:[],
   },
   getters: {
   },
